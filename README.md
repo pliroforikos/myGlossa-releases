@@ -75,7 +75,7 @@
   - παρουσιάζει τον δικό του κώδικα σε όλους·
   - όλα γίνονται στο τοπικό δίκτυο, κρυπτογραφημένα, χωρίς internet.
 
-Συνυπάρχει στο ίδιο εργαστήριο με το [myPython2](https://github.com/pliroforikos/myPython2) και το [EduPython3](https://github.com/pliroforikos/EduPython3) (άλλες θύρες, άλλοι φάκελοι).
+Συνυπάρχει στο ίδιο εργαστήριο με το [myPython2](https://github.com/pliroforikos/myPython2-releases) και το [EduPython3](https://github.com/pliroforikos/EduPython3-releases) (άλλες θύρες, άλλοι φάκελοι).
 
 ## 📄 Άδεια
 
